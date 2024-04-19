@@ -13,7 +13,7 @@ A minimalistic micro-frontend framework designed to load and display micro-front
 Install the package via npm:
 
 ```bash
-npm install your-package-name
+npm install anatolievich-micro-frontend-framework
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ npm install your-package-name
 First, include the framework in your HTML file.
 
 ```html
-<script src="node_modules/your-package-name/microFrontendFramework.js"></script>
+<script src="node_modules/anatolievich-micro-frontend-framework/microFrontendFramework.js"></script>
 ```
 
 Initialize the framework and register your micro-frontends:
