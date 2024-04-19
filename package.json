@@ -1,6 +1,9 @@
 {
-  "name": "anatolievich",
-  "version": "0.1.0",
+  "name": "migrations-fma",
+  "version": "0.1.1",
   "main": "microFrontendFramework.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "anatolievich": "^0.1.1"
+  }
 }
